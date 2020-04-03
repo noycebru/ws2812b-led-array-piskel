@@ -1,3 +1,6 @@
+This multi-file version is thanks to an anonymous viewer, thank you! Viewers and I created the pixel artwork.
+To get the multi-file version to compile on Arduino, download the zip file of the three header files and the INO and make sure they're in the same folder when you compile.
+
 COMPILING REQUIREMENTS:
 Using Arduino IDE on Win10:
 -----------------------------------------------------
